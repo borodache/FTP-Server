@@ -1,5 +1,5 @@
 # FTP-Server
-Self project written in Java
+FTP Java Server project
 
 how to run:
 create runServer.bat in project root directory with content
